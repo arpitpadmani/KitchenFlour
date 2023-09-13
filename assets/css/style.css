@@ -1269,6 +1269,7 @@ table img{
 .main-header .topbar {
     background-color: #1D2228;
     padding-bottom: 0;
+    display: none;
 }
 
 .main-header .topbar .right-side,
@@ -5418,6 +5419,7 @@ align-items: center;
 
   .main-header .topbar{
     display: none;
+
   }
   .header-controls-inner li.cart-dropdown-wrapper,
   .header-controls-inner li.search-dropdown-wrapper{
