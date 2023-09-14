@@ -5029,6 +5029,13 @@ align-items: center;
   background-color: #9f4103;
 }
 
+.about-sec-para {
+  padding-top: 100px;
+}
+.section .imgs-wrapper-2 .about-qualityImg1{
+  height: 350px;
+}
+
 /*  Video style 4 */
 
 .video-style-4{
