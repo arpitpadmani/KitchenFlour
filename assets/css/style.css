@@ -2197,7 +2197,7 @@ table img {
   color: #9f4103;
 }
 
-.navbar-nav .menu-item-has-children>a::after,
+/* .navbar-nav .menu-item-has-children>a::after,
 .sigma_aside ul .menu-item.menu-item-has-children>a::after {
   font-family: "Font Awesome 5 Free";
   content: "\f078";
@@ -2209,7 +2209,7 @@ table img {
   line-height: 28px;
   margin-left: auto;
   font-size: 10px;
-}
+} */
 
 .navbar-nav .menu-item-has-children>a::after {
   margin-left: 10px;
