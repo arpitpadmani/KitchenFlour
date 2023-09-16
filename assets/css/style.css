@@ -2338,6 +2338,17 @@ table img {
   color: #9f4103;
 }
 
+.ct-footer .make-india{
+  max-width: 621px;
+    height: 150px;
+}
+
+.right-img-contain{
+  padding-left: 153px;
+}
+.links-center{
+  padding-left: 153px;
+}
 .footer-widget {
   padding-bottom: 80px;
 }
@@ -2349,6 +2360,10 @@ table img {
 
 .footer-logo {
   width: 180px;
+}
+
+.footer-section{
+  flex-wrap: nowrap;
 }
 
 .footer-subtitle {
