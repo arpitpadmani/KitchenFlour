@@ -2351,6 +2351,19 @@ table img {
   width: 180px;
 }
 
+.footer-subtitle {
+  font-size: 30px;
+  color: white;
+  font-weight: 500;
+}
+
+.footer-colum1{
+  margin-right: 160px;
+}
+.footer-logo{
+  width: 46px;
+}
+
 .footer-widget ul {
   margin: 0;
 }
