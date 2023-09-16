@@ -2379,6 +2379,11 @@ table img {
   width: 46px;
 }
 
+.foter-header-img{
+  width: 35px;
+  padding-bottom: 8px;
+}
+
 .footer-widget ul {
   margin: 0;
 }
@@ -5996,6 +6001,18 @@ td.quantity {
 
   .footer-widget {
     padding-bottom: 60px;
+  }
+
+  .footer-section{
+    flex-wrap: wrap;
+  }
+
+  .links-center{
+    padding-left: 15px;
+  }
+
+  .right-img-contain{
+    padding-left: 15px;
   }
 
   .section.section-padding {
