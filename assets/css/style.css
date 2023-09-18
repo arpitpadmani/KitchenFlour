@@ -5475,7 +5475,11 @@ td.quantity {
   z-index: 8;
 }
 
-.progress-icon .icon-wrapper .icon-box {
+.progress-icon .icon-wrapper .wrapper-icon-change{
+padding-bottom: 28px;
+}
+
+ .icon-box {
   display: flex;
   align-items: center;
   padding: 60px 25px;
