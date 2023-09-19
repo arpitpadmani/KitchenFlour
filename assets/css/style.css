@@ -2338,17 +2338,24 @@ table img {
   color: #9f4103;
 }
 
-.ct-footer .make-india{
+.ct-footer .make-india {
   max-width: 621px;
-    height: 150px;
+  height: 150px;
+  /* margin-left: 153px; */
 }
 
-.right-img-contain{
+.right-img-contain {
   padding-left: 153px;
 }
-.links-center{
-  padding-left: 153px;
+
+.links-center {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 94px;
 }
+
 .footer-widget {
   padding-bottom: 80px;
 }
@@ -2362,8 +2369,12 @@ table img {
   width: 180px;
 }
 
-.footer-section{
+.footer-section {
+  display: flex;
+  -ms-flex-wrap: nowrap;
   flex-wrap: nowrap;
+  margin-right: -15px;
+  margin-left: -15px;
 }
 
 .footer-subtitle {
@@ -2372,14 +2383,15 @@ table img {
   font-weight: 500;
 }
 
-.footer-colum1{
+.footer-colum1 {
   margin-right: 160px;
 }
-.footer-logo{
+
+.footer-logo {
   width: 46px;
 }
 
-.foter-header-img{
+.foter-header-img {
   width: 35px;
   padding-bottom: 8px;
 }
@@ -5475,11 +5487,11 @@ td.quantity {
   z-index: 8;
 }
 
-.progress-icon .icon-wrapper .wrapper-icon-change{
-padding-bottom: 28px;
+.progress-icon .icon-wrapper .wrapper-icon-change {
+  padding-bottom: 28px;
 }
 
- .icon-box {
+.icon-box {
   display: flex;
   align-items: center;
   padding: 60px 25px;
@@ -6007,15 +6019,18 @@ padding-bottom: 28px;
     padding-bottom: 60px;
   }
 
-  .footer-section{
+  .footer-section {
     flex-wrap: wrap;
   }
 
-  .links-center{
+  .ct-footer .make-india{
+    margin-left: 0px;
+  }
+  .links-center {
     padding-left: 15px;
   }
 
-  .right-img-contain{
+  .right-img-contain {
     padding-left: 15px;
   }
 
